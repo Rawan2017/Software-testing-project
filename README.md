@@ -17,4 +17,4 @@ This project is about testing the nopcommerce website using:
 ## Structure
 - Documentation/: Test plan, cases, bug reports
 - ManualTesting/: Results and screenshots
-- AutomationTesting/: Source code and reports
+- AutomationTesting/: Source code
